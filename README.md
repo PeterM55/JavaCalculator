@@ -2,3 +2,13 @@
 This was a calculator I threw together in around 30 minutes using code I had taken over from my c# calculator. 
 This is missing many features and is not meant for actual use. 
 It was simply a test of how quickly I could throw something together in java for such a use. 
+
+
+| empty | full |
+| :----: | :------------: |
+|![][emptyImage]|![][fullImage]|
+
+[emptyImage]: ./Calculator55Java/images/calculatorEmpty.png
+[fullImage]: ./Calculator55Java/images/calculatorFull.png
+
+(this was my first git for something other than a group, partly testing stuff)
