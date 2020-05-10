@@ -11,4 +11,3 @@ It was simply a test of how quickly I could throw something together in java for
 [emptyImage]: ./Calculator55Java/images/calculatorEmpty.png
 [fullImage]: ./Calculator55Java/images/calculatorFull.png
 
-(this was my first git for something other than a group, partly testing stuff)
